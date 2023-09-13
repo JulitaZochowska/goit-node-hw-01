@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "My first node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulitaZochowska/goit-node-hw-01.git"
+  },
+  "author": "Julita Zochowska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulitaZochowska/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/JulitaZochowska/goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
